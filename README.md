@@ -16,5 +16,5 @@ This project is a hands-on tutorial repository created to help me learn and prac
 
 **Live Demo Link**
 -
-https://brooke-lin.github.io/frontend-bootcamp-tutorial/
+https://brooke-lin.github.io/WebProjects_FrontendBootcampTutorial/
 
