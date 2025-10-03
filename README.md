@@ -8,7 +8,7 @@ This project is a hands-on tutorial repository created to help me learn and prac
 * Modern landing page structure
 * Practical examples of Bootstrap components
 
-**Technologies Used**
+**Built With**
 -
 * Bootstrap
 * HTML
